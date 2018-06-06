@@ -1,0 +1,9 @@
+I am Andi Maroge
+I successfully downloaded and loaded the HelloWorld application onto the Android Studio.
+The minimum SDK version is 23 and the targeted SDK version is 27
+I tested the app using Pixel 2 emulator on the Android Studio (Android P, API 27)
+The app works completely fine
+The app also displays properly with the texts aligned in the center
+The app displays the required text using TextView
+The name of the student is displayed
+There is nothing to be improved with the application. It is perfect.  
